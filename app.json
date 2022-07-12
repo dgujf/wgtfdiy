@@ -1,7 +1,7 @@
 {
-    "name": "bfcdsr",
-    "description": "bfcdsr",
-    "keywords": ["bfcdsr"],
+    "name": "pouygt",
+    "description": "pouygt",
+    "keywords": ["pouygt"],
     "env": {
          "PROTOCOL": {
             "description": "Xray五合一协议共存：vless-ws、vmess-ws、trojan-ws、shadowsocks-ws、socks5-ws",
